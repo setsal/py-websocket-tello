@@ -1,5 +1,3 @@
-
-Learn more or give us feedback
 from tello import Tello
 import sys
 from datetime import datetime
